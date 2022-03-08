@@ -13,7 +13,7 @@ reserved variables, and special parameters in the Shell.
   current Linux user.
 
 * **2. The path to success is to take massive, determined action**
-  * [2-path](./2-path): Bash script that adds `/action` to the `PATH`.
+  * [2-path](./2-path): Bash script that adds `/action` to the `PATH.` '/action' should be the last directory the shell looks into when looking for a program. 
 
 * **3. If the path be beautiful, let us not ask where it leads**
   * [3-paths](./3-paths): Bash script that counts the number of directories in the `PATH`.
@@ -27,11 +27,11 @@ reserved variables, and special parameters in the Shell.
 
 * **6. Local variable**
   * [6-create_local_variable](./6-create_local_variable): Bash script that creates
-  a new local variable named `BETTY` with value `Holberton`.
+  a new local variable named `BEST` with value `School`.
 
 * **7. Global variable**
   * [7-create_global_variable](./7-create_global_variable): Bash script that
-  creates a new global variable named `HOLBERTON` with value `Betty`.
+  creates a new global variable named `BEST` with value `School`.
 
 * **8. Every addition to true knowledge is an addition to human power**
   * [8-true_knowledge](./8-true_knowledge): Bash script that prints the result of the
@@ -40,7 +40,7 @@ reserved variables, and special parameters in the Shell.
 
 * **9. Divide and rule**
   * [9-divide_and_rule](./9-divide_and_rule): Bash script that prints the result
-  of `POWER` divided by `DIVIDE`. `POWER` and `DIVIDE` are environment variables.
+  of `POWER` divided by `DIVIDE`, followed by a new line. `POWER` and `DIVIDE` are environment variables.
 
 * **10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath**
   * [10-love_exponent_breath](./10-love_exponent_breath): Bash script that displays the
@@ -67,7 +67,7 @@ reserved variables, and special parameters in the Shell.
 
 * **15. Everyone is a proponent of strong encryption**
   * [100-rot13](./100-rot13): Bash script that encodes and decodes text using the rot13
-  encryption.
+  encryption.  Assume ASCII.
 
 * **16. The eggs of the brood need to be an odd number**
   * [101-odd](./101-odd): Bash script that prints every other line from the input,
@@ -77,4 +77,4 @@ reserved variables, and special parameters in the Shell.
   * [102-water_and_stir](./102-water_and_stir): Bash script that adds the two numbers
   stored in the environment variables `WATER` and `STIR` and prints the result.
   * `WATER` is in base `water`, `STIR` is in base `stir`, and the result is
-  in base `behlnort`.
+  in base `bestchol`.
