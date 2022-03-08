@@ -5,7 +5,7 @@ reserved variables, and special parameters in the Shell.
 
 ## Tasks 
 
-* **0. <o> **
+* **0. <o>**
   * [0-alias](./0-alias): Bash script that creates an alias named `ls` with value `rm *`.
 
 * **1. Hello you**
